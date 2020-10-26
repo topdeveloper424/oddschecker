@@ -8,7 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## UI
 
-https://user-images.githubusercontent.com/40516126/97140253-f02daf80-173a-11eb-93ab-798dac04031f.png
+![image](https://user-images.githubusercontent.com/40516126/97140253-f02daf80-173a-11eb-93ab-798dac04031f.png)
 
 
 ## Algorithm
