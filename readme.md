@@ -6,6 +6,11 @@ Foobar is a Python library for matching odds from "https://www.oddschecker.com/f
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+## UI
+
+https://github.com/topdeveloper424/oddschecker/issues/1#issue-729279750
+
+
 ## Algorithm
 
 1. Goto Oddschecker website https://www.oddschecker.com/football#bumper-coupon In the above FootballÆ bumper-coupon site Record the followings to Excel
